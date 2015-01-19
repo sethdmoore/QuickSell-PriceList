@@ -25,6 +25,7 @@ Sandstone: 0.0
 Moss Stone: 1.0
 Glowstone: 1.5
 Redstone: 0.6
+```
 
 ====
 Example Config
