@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/cygwin/home/Seth/build/CraftBukkit/target/craftbukkit-1.8-R0.1-SNAPSHOT-remapped.jar"/>
+	<classpathentry kind="lib" path="C:/cygwin/home/Seth/build/Bukkit/target/bukkit-1.8-R0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/cygwin/home/Seth/dev/plugins/QuickSell_v1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/cygwin/home/Seth/build/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

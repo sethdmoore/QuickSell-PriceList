@@ -1,0 +1,9 @@
+name: PriceList
+main: com.mcapplbee.pricelist.PriceList
+version: 0.1
+commands:
+    pricelist:
+        description: This command shows the prices of all items
+        usage: /<command>
+        permission: PriceList.pricelist
+        permission-message: You don't have <permission>
