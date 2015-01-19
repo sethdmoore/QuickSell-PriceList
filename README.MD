@@ -10,6 +10,7 @@ QuickSell's config to be written. It will just complain that it doesn't exist.
 
 
 Restarting the server will resolve this issue. Fix it if you want, I'm lazy :P
+
 =====
 Usage
 =====
@@ -24,6 +25,7 @@ Sandstone: 0.0
 Moss Stone: 1.0
 Glowstone: 1.5
 Redstone: 0.6
+
 ====
 Example Config
 ====
